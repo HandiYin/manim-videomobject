@@ -1,7 +1,5 @@
 # manim-videomobject
 
-[![CI](https://github.com/HandiYin/manim-videomobject/actions/workflows/ci.yml/badge.svg)](https://github.com/HandiYin/manim-videomobject/actions/workflows/ci.yml)
-
 A drop-in `VideoMobject` for [Manim Community](https://www.manim.community/). Manim CE ships `ImageMobject`, `SVGMobject` and `Text`, but no video mobject — this package fills that gap by decoding a clip with ffmpeg into a frame sequence and playing it through the normal `ImageMobject` render path.
 
 ```python
