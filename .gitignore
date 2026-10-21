@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+media/
+examples/demo.mp4
+.pytest_cache/
+.coverage
