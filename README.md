@@ -129,6 +129,7 @@ RUN_RENDER_TESTS=1 pytest -q tests/test_render.py
 ```
 
 The render test needs a working Manim/Cairo install and is skipped by default.
+A GitHub Actions workflow template lives in `contrib/github-actions-ci.yml`.
 
 ## License
 
