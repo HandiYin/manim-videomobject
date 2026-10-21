@@ -13,6 +13,8 @@ class Demo(Scene):
         self.play(clip.play())
 ```
 
+![VideoMobject demo](docs/demo.gif)
+
 ## Features
 
 - Real motion: frames advance with the animation timeline, so fades, transforms and camera moves compose normally.
